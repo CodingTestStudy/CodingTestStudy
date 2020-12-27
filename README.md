@@ -7,7 +7,7 @@
 ### codeup 기초문법 100제 사이트
 [codeup 기초문법 100제](https://codeup.kr/problemsetsol.php?psid=23)
 
-### 파이썬 기초문법 정리글
+### 파이썬 기초문법 정리
 [파이썬 기초문법 정리](https://fdee.tistory.com/entry/Phython-파이썬-기초문법-정리-codeup-기초-100제)
 
 ## Chapter3 그리디 정리
