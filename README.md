@@ -12,3 +12,6 @@
 
 ## Chapter3 그리디 정리
 [그리디 정리](https://fdee.tistory.com/entry/Chapter3-그리디-정리)
+
+## Chapter4 구현 정리
+[구현 정리](https://fdee.tistory.com/entry/이것이-코딩-테스트다-Chapter4-구현-정리)
