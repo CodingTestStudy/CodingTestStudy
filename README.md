@@ -18,3 +18,6 @@
 
 ## Chapter5 DFS, BFS 정리
 [DFS, BFS 정리](https://fdee.tistory.com/entry/이것이-코딩-테스트다-Chapter5-DFS-BFS-정리)
+
+## Chapter6 정렬 정리
+[정렬 정리](https://fdee.tistory.com/entry/이것이-코딩-테스트다-Chapter6-정렬-정리)
