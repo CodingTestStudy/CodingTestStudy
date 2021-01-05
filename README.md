@@ -21,3 +21,6 @@
 
 ## Chapter6 정렬 정리
 [정렬 정리](https://fdee.tistory.com/entry/이것이-코딩-테스트다-Chapter6-정렬-정리)
+
+## Chapter7 이진 탐색 정리
+[이진 탐색 정리](https://fdee.tistory.com/entry/이것이-코딩-테스트다-Chapter7-이진-탐색)
