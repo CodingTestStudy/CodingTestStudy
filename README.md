@@ -24,3 +24,6 @@
 
 ## Chapter7 이진 탐색 정리
 [이진 탐색 정리](https://fdee.tistory.com/entry/이것이-코딩-테스트다-Chapter7-이진-탐색)
+
+## Chapter8 다이나믹 프로그래밍 정리
+[DP 정리](https://fdee.tistory.com/entry/이것이-코딩-테스트다-Chapter8-다이나믹-프로그래밍-정리)
