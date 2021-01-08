@@ -1,6 +1,36 @@
 # CodingTestStudy - FreeDeveloper
 ## 나동빈 - 이것이 코딩테스트이다 : 문제풀이 코드저장소
 
+### 자주쓰이는 파이썬 코드
+* 빠른 입력 코드
+```python
+import sys
+input_data = sys.stdin.readline().rstrip()
+```
+* 시간측정코드
+```python
+import time
+start_time = time.time()
+end_time = time.time()
+print(end_time - start_time)
+```
+* 이중탐색코드
+```python
+def binary_search(array, target, start, end) :
+  if start > end :
+    return None
+
+  mid = (start+end)//2
+
+  if target == array[mid] :
+    return mid
+  elif target < array[mid] :
+    return binary_search(array, target, start, mid-1)
+  else :
+    return binary_search(array, target, mid+1, end)
+```
+
+
 ### 책내용 정리 블로그
 [Tistory - 자유로운 개발자 FDEE](https://fdee.tistory.com/category/나동빈%20코딩테스트%20정리)
     
