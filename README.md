@@ -16,6 +16,10 @@ start_time = time.time()
 end_time = time.time()
 print(end_time - start_time)
 ```
+* 문자 -> 숫자 변환코드
+```python
+int(ord(input_data[0])) - int(ord('a'))
+```
 * 이중탐색코드
 ```python
 def binary_search(array, target, start, end) :
@@ -146,3 +150,6 @@ for a in range(1, n+1) :
 
 ## Chapter8 다이나믹 프로그래밍 정리
 [DP 정리](https://fdee.tistory.com/entry/이것이-코딩-테스트다-Chapter8-다이나믹-프로그래밍-정리)
+
+## Chapter9 최단 경로(다익스트라, 플로이드 워셜) 정리
+[최단 경로 정리](https://fdee.tistory.com/entry/이것이-코딩-테스트다-Chapter9-최단-경로-정리)
